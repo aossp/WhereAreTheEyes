@@ -1,2 +1,16 @@
 .*.swp
 .DS_Store
+*.iml
+.gradle
+
+
+Android/.idea/
+Android/app/release/
+Android/local.properties
+Android/.idea/workspace.xml
+Android/.idea/gradle.xml
+Android/.idea/misc.xml
+Android/.idea/modules.xml
+Android/.idea/libraries
+Android/build
+Android/captures
